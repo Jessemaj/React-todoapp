@@ -1,0 +1,11 @@
+{
+  "todo": [],
+  "completed": [
+    {
+      "task": "Go for a walk",
+      "tag": "hobby",
+      "isDone": true,
+      "id": 1
+    }
+  ]
+}
